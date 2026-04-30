@@ -2,9 +2,6 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=69Napoli&label=PROFILE+VIEWS&color=00FFB3&style=flat-square)](https://github.com/69Napoli)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/69Napoli?label=FOLLOWERS&style=flat-square&color=00FFB3)](https://github.com/69Napoli)
 
 </div>
 
