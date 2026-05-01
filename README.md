@@ -7,7 +7,6 @@
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats-eight-theta.vercel.app/api?username=69Napoli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB3&icon_color=00FFB3&include_all_commits=true&count_private=true" />
 
 ### `whoami`
 
