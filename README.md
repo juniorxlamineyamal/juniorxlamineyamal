@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00FFB3&center=true&vCenter=true&width=850&lines=Security+Developer+%26+Forensics+Specialist;Systems+%7C+Threat+Detection+%7C+FiveM;Frontend+Developer+%7C+UI+%2F+UX+Enthusiast;Turning+Cheaters+Into+Case+Studies;Creator+of+Checker+%E2%80%94+Discord+Threat+Intelligence" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00FFB3&center=true&vCenter=true&width=850&lines=Security+Developer+%26+Forensics+Specialist;Systems+%7C+Threat+Detection+%7C+FiveM;Frontend+Developer+%7C+UI+%2F+UX+Enthusiast;Turning+Cheaters+Into+Case+Studies;Discord+Threat+Intelligence" alt="Typing SVG" />
 
 <br/>
 
